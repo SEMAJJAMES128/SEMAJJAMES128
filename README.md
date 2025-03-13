@@ -6,7 +6,7 @@ I am very passionate about cybersecurity and thrive on solving complex challenge
 ## ⚠️ Vulnerability Management Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/SEMAJJAMES128/Vulnerability-management-program)**
-- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
+- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/SEMAJJAMES128/programmatic-vulnerability-remediations/tree/main)**
 
 
 
