@@ -10,7 +10,7 @@ I am very passionate about cybersecurity and thrive on solving complex challenge
 
 🚨 Threat Hunting and Security Operations
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/SEMAJJAMES128/threat-hunting-scenario-tor/tree/main)**
-- **[Threat Hunting Scenario (PsExec)](https://github.com/SEMAJJAMES128/threat-hunting-scenario-tor/blob/main/Hunt2-PSEXEC.md)**
+- **[Threat Hunting Scenario (PsExec)](https://github.com/SEMAJJAMES128/threat-hunting-scenario-tor/blob/main/Hunt2-PsExec.md)**
 
 
 <hr/>
